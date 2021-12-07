@@ -1,0 +1,8 @@
+name = "TCC"
+uuid = "05428bc7-93f2-473e-88c6-37fb64fd9517"
+authors = ["Max Hawkins <max.hawkins65@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
